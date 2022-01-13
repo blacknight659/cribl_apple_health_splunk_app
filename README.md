@@ -1,2 +1,4 @@
-# cribl_apple_health_splunk_app
-Splunk app with dashboard for searching apple health data from Cribl LogStream
+# Splunk App > Cribl_Apple_Health
+Sample app with an included dashboard to view data sent from Cribl to Splunk.
+
+Please see the cribl-apple-health pack for more details. https://github.com/criblpacks/cribl-apple-health
